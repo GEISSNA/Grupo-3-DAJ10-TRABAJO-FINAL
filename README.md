@@ -1,6 +1,6 @@
-**ANÁLISIS DE VENTAS RSM - DETALLES Y REQUISITOS**
+# ANÁLISIS DE VENTAS RSM - DETALLES Y REQUISITOS
 
-_INTEGRANTES_
+## INTEGRANTES
 1. Geissna Abigail Yazbek de Martínez (geissna.yazbek@gmail.com)
 
 2. Silvia Beatriz Perez Lopez (perezlopez0689@gmail.com)
@@ -11,14 +11,14 @@ _INTEGRANTES_
 
 5. Ever Bladimir Pérez Cruz (ever.perezcrz07@gmail.com)
 
-_REQUISITOS_
+## REQUISITOS
 
 Postgresql (PgAdmin o extensiones para Postgresql desde VSC)  
 Python (Pandas, Matplotlib, Numpy),  
 Power BI  
 Google Colab o Instalación de extensión de Jupyter en VSC para los Notebooks de trabajo
 
-_DEFINICIÓN DE CARPETAS_
+## DEFINICIÓN DE CARPETAS
 
 **1. Definición**
    En esta carpeta se da inicio al proyecto y en ella se incluye un archivo en formato PNG llamado *Diagrama ER.png* donde se demuestra como
@@ -39,6 +39,4 @@ _DEFINICIÓN DE CARPETAS_
    Para que se puedan observar los notebooks con su respectivo análisis se creo un archivo csv denominado *Consolidado.csv* esta tabla es un datawarehouse que
    contiene toda la información proporcionada y este archivo es importado en el notebook de trabajo.
    Importante mencionar que el notebook de trabajo se puede ver tambien desde Google Colab.
-   Se crearon otros botebooks de trabajo donde se han realizado otros análisis pero estos estan conectados a la base de datos de postgresql, el objetivo de esto
-   es dar a conocer que podemos trabajar con pandas y librerías de Python para obtener la información y asi poder realizar el análisis exploratorio. 
    
